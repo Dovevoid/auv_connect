@@ -1,0 +1,8 @@
+prefix=/home/dove/auv_ws/devel
+
+Name: stm32_ros2serial
+Description: Description of stm32_ros2serial
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

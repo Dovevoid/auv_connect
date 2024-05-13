@@ -1,0 +1,2 @@
+auv_chat:nuc_tcp:stm32_ros2serial
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/dove/auv_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dove/auv_ws/install -G Unix Makefiles

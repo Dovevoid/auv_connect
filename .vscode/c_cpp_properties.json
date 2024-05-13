@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "${default}",
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "/usr/include/**", 
+                "/opt/ros/noetic/include",            
+                "/opt/ros/noetic/include/**",
+                "/home/dove/rov_ws/devel/include/**",
+                "/home/dove/rov_ws/src/ethernet_chatter/include/**",
+                "/home/dove/rov_ws/src/imu_chatter/include/**",
+                "/home/dove/rov_ws/src/nuc_tcpserver/include/**",
+                "/home/dove/rov_ws/src/offboard_control/include/**",
+                "/home/dove/rov_ws/src/stm32_chatter/include/**",
+                "/home/dove/auv_ws/devel/include/**",
+                "/home/dove/auv_ws/src/nuc_tcp/include/**"
+
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}

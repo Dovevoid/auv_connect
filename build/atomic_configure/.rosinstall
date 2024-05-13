@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/dove/auv_ws/devel/setup.sh
