@@ -1,8 +1,0 @@
-prefix=/home/dove/auv_ws/install
-
-Name: auv_chat
-Description: Description of auv_chat
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
